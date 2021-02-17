@@ -11,5 +11,5 @@ Those who write the clean or cool code collection, can be functions or code frag
 + Each new program language had better have an independent folder for unified management;
 
 ### 编者的话
-+ 开源不易，如你想要与我交流更多的技术可以添加[我的微信](images/wechat-author.jpg)；
-+ If you want to exchange more technologies with me, you could add [my wechat](images/wechat-author.jpg).
++ 开源不易，如你想要与我交流更多的技术可以添加 ![我的微信](https://github.com/masterliuf/NewBeeLib/tree/main/images/wechat-author.jpg)；
++ If you want to exchange more technologies with me, you could add ![my wechat](https://github.com/masterliuf/NewBeeLib/tree/main/images/wechat-author.jpg).
