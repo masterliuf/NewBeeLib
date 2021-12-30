@@ -13,3 +13,5 @@ Those who write the clean or cool code collection, can be functions or code frag
 ### 编者的话
 + 开源不易，如你想要与我交流更多的技术可以添加 ![我的微信](https://github.com/masterliuf/NewBeeLib/tree/main/images/wechat-author.jpg)；
 + If you want to exchange more technologies with me, you could add ![my wechat](https://github.com/masterliuf/NewBeeLib/tree/main/images/wechat-author.jpg).
+
+### CopyRights 2022
